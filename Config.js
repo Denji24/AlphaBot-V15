@@ -9,7 +9,7 @@ global.APIs = {
 
 // Free apikey
 global.APIKeys = {
-	'https://api.zeeoneofc.xyz': 'V12',  // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
+	'https://api.zeeoneofc.my.id': 'V12',  // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
 }
 
 // setting 
@@ -25,29 +25,29 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Chikabot-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ HumanOfcོ ×፝֟͜×" //nama kalian
+global.botname = "Elaina-Mdོ" //namabot kalian
+global.ownername= "ᴹᴿ᭄ BimaOfcོ ×፝֟͜×" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
 global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
 global.email = "zeeoneofc@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6285772762034'] //premium user
-global.owner = ["6285772762034","6285772762034"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6285772762034" // nomor wa kalian
-global.ownernomerr = "+6285772762034" //nmr wa kalian
-global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.premium = ['6283822270848'] //premium user
+global.owner = ["6283822270848","6283822270848"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6283822270848" // nomor wa kalian
+global.ownernomerr = "+6283822270848" //nmr wa kalian
+global.thumbnail = "./image/images.jpeg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.packname = '© Chikabot-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh HumanOfc' //sticker wm ganti nama kalian
+global.packname = '© Elaina-Mdོ' //sticker wm ubah
+global.author = 'Di Buat Oleh BimaOfc' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 45
 }
 
 global.adventureRPG = 'https://telegra.ph/file/30bef343159005b622ced.jpg'
